@@ -1,0 +1,30 @@
+{
+  "name": "romannumerals",
+  "version": "1.0.0",
+  "description": "Roman numeral translator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatsiarynaMashokha/romanNumerals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatsiarynaMashokha/romanNumerals/issues"
+  },
+  "homepage": "https://github.com/KatsiarynaMashokha/romanNumerals#readme",
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-uglify": "^3.0.0",
+    "jasmine": "^2.8.0",
+    "jshint": "^2.9.5",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
